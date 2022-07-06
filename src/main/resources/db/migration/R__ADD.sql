@@ -1,0 +1,1 @@
+insert into itlab(name) values ("张三")
