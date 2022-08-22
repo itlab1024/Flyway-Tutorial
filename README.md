@@ -211,4 +211,4 @@ spring:
 >
 > Github：https://github.com/itlab1024/flyway-tutorial
 >
-> 微信公众号：![微信公众号](https://raw.githubusercontent.com/itlab1024/picgo-images/main/202207061803337.png)
+> 微信公众号：![微信公众号](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202207231727053.png)
