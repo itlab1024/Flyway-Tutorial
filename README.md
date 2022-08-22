@@ -208,5 +208,4 @@ spring:
 * 个人网站：https://itlab1024.com
 * 知乎：https://www.zhihu.com/people/xpp1109
 * Github：https://github.com/itlab1024/flyway-tutorial
-* 微信公众号：![image-20220706155626689](https://raw.githubusercontent.com/itlab1024/picgo-images/main/202207061556746.png)
-![](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202207231727053.png)
+* 微信公众号：![image-20220706155626689](https://itlab1024-1256529903.cos.ap-beijing.myqcloud.com/202207231727053.png)
